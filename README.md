@@ -1,1 +1,1 @@
-# webcomic
+# tentli.github.io
