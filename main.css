@@ -10,7 +10,6 @@ ul {
 	padding: 0px;
 	margin: 0px;
 	overflow: hidden;
-
 }
 
 li {
@@ -18,3 +17,8 @@ li {
 }
 li a {
 	padding: 14px 16px;
+}
+.comic {
+	margin: 5px;
+}
+	
