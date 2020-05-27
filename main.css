@@ -23,4 +23,9 @@ li a {
 .comic {
 	margin: 10px 10px;
 }
+p {
+	border-style: double;
+	margin: 10px;
+	padding: 10px;
+}
 	
