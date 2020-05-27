@@ -10,15 +10,16 @@ ul {
 	padding: 0px;
 	margin: 0px;
 	overflow: hidden;
+	border-style: double;
 }
 
 li {
 	float:left;
 }
 li a {
-	padding: 14px 16px;
+	padding: 10px 10px;
 }
 .comic {
-	margin: 5px;
+	margin: 10px 10px;
 }
 	
