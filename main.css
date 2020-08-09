@@ -10,8 +10,6 @@ html, body {
 	background-color: #3b535c;
 
 ul { 
-	position: relative;
-	left:50%;
 	list-style-type: none;
 }
 
