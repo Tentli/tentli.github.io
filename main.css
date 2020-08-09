@@ -1,6 +1,10 @@
 html, header {
 	margin: 10;
 }
+div.navBar {
+	position: relative;
+}
+div.
 html, body {
 	font-family: serif;
  	margin: 10;
