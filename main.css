@@ -4,7 +4,8 @@ html, header {
 div.navBar {
 	position: relative;
 	width: 100%;
-	height: 250px;
+	height: auto;
+	background-color: #b32b2b;
 }
 div.
 html, body {
