@@ -19,6 +19,7 @@ ul {
 li a {
 	position:absolute;
 	border-style: solid;
+	display: inline;
 }
 .comic {
 	margin: 10px 10px;
