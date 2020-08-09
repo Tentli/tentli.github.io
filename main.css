@@ -13,10 +13,10 @@ ul {
 	position: relative;
 	left:50%;
 	list-style-type: none;
+	border-style: solid;
 }
 
 li {
-	position:absolute;
 	border-style: solid;
 	display: inline;
 }
