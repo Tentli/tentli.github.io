@@ -1,12 +1,6 @@
 html, header {
 	margin: 10;
 }
-div.navBar {
-	position: relative;
-	width: 100%;
-	height: auto;
-	background-color: #b32b2b;
-}
 
 html, body {
 	font-family: serif;
