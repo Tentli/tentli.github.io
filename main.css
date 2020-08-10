@@ -20,6 +20,7 @@ ul {
 
 li {
 	position: relative;
+	left: 50%;
 	display: inline;
 	border-style: solid;
 	border-color: RED;
