@@ -18,6 +18,7 @@ ul {
 
 li {
 	display: inline;
+	position: absolute;
 	border-style: solid;
 	height: 10%;
 }
