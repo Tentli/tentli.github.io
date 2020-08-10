@@ -30,7 +30,7 @@ li {
 	margin: 0 auto;
 }
 .comic {
-	position: absolute;
+	position: relative;
 	border-style: solid;
 	border-color: GREEN;
 	margin-left: auto;
