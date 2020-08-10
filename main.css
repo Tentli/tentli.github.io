@@ -10,7 +10,6 @@ html, body {
 }
 ul { 
 	list-style-type: none;
-	position: relative;
 	margin: 0;
 	padding: 0;
 	left: 50%;
@@ -21,7 +20,6 @@ li {
 	border-style: solid;
 }
 .comic {
-	position: relative;
 	width: 100%;
 	height: auto;
 }
