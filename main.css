@@ -12,7 +12,6 @@ ul {
 	list-style-type: none;
 	position: relative;
 	left: 50%;
-	height: 10%;
 	margin: 0;
 	padding: 0;
 }
@@ -20,6 +19,7 @@ ul {
 li {
 	display: inline;
 	border-style: solid;
+	height: 10%;
 }
 .comic {
 	width: 100%;
