@@ -28,7 +28,7 @@ li {
 .main { 
 	position: relative;
 	border-style: solid;
-	border-color: RED;
+	border-color: BLUE;
 p {
 	position: relative;
 	border-style: double;
