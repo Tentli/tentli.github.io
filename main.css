@@ -24,7 +24,10 @@ li {
 	border-style: solid;
 	border-color: RED;
 	margin-left: 2px;
-	
+}
+.table {
+	display: table;
+	margin: 0 auto;
 }
 .comic {
 	border-style: solid;
