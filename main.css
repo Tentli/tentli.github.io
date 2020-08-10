@@ -20,7 +20,8 @@ ul {
 
 li {
 	position: relative;
-	left: 50%;
+	margin-left: auto;
+   	margin-right: auto;
 	display: inline;
 	border-style: solid;
 	border-color: RED;
@@ -30,6 +31,8 @@ li {
 .comic {
 	border-style: solid;
 	border-color: GREEN;
+	margin-left: auto;
+   	margin-right: auto;
 }
 .main { 
 	position: relative;
