@@ -15,11 +15,14 @@ ul {
 	position: relative;
 	list-style-type: none;
 	left: 50%;
+	border-style: solid;
+	border-color: BROWN;
 }
 
 li {
 	display: inline;
 	border-style: solid;
+	border-color: RED;
 }
 .comic {
 	border-style: solid;
