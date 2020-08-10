@@ -1,11 +1,11 @@
 html, header {
-	margin: 10;
+	border-style: double;
 }
 
 html, body {
 	font-family: serif;
 	background-color: #3b535c;
-	height: 100%;
+	border-stlye: dotted;
 }
 ul { 
 	position: relative;
