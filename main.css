@@ -19,10 +19,10 @@ ul {
 }
 
 li {
-	position: absolute;
 	left: 50%;
 	margin-right: -50%;
 	display: inline;
+	float: left;
 	border-style: solid;
 	border-color: RED;
 	margin-left: 2px;
