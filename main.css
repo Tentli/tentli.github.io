@@ -22,7 +22,8 @@ li {
 	border-style: solid;
 }
 .comic {
-
+	border-style: solid;
+	border-color: GREEN;
 }
 p {
 	position: relative;
