@@ -11,6 +11,7 @@ ul {
 	position: relative;
 	margin: 0;
 	padding: 0;
+	left: 50%;
 }
 
 li {
@@ -18,8 +19,9 @@ li {
 	border-style: solid;
 }
 .comic {
+	position: relative;
 	width: 100%;
-	height: 100%;
+	height: auto;
 }
 p {
 	border-style: double;
