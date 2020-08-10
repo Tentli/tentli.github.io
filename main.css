@@ -30,6 +30,7 @@ li {
 	margin: 0 auto;
 }
 .comic {
+	display: block;
 	border-style: solid;
 	border-color: GREEN;
 	display: block;
