@@ -19,8 +19,6 @@ ul {
 }
 
 li {
-	position: absolute;
-	left: 50%;
 	display: inline;
 	border-style: solid;
 	border-color: RED;
