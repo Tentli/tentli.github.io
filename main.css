@@ -25,6 +25,7 @@ li {
 
 }
 p {
+	position: relative;
 	border-style: double;
 }
 	
