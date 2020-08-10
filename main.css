@@ -19,9 +19,9 @@ ul {
 }
 
 li {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	position: absolute;
+	left: 50%;
+	margin-right: -50%;
 	display: inline;
 	border-style: solid;
 	border-color: RED;
