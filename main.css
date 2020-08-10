@@ -19,8 +19,6 @@ ul {
 }
 
 li {
-	left: 50%;
-	margin-right: -50%;
 	display: inline;
 	float: left;
 	border-style: solid;
