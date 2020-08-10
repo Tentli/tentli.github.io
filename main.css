@@ -20,6 +20,7 @@ li {
 	border-style: solid;
 }
 .comic {
+	position: relative;
 	width: 100%;
 }
 p {
