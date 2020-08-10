@@ -9,6 +9,7 @@ html, body {
 	height: 100%;
 }
 ul { 
+	position: relative;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
